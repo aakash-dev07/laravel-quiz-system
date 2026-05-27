@@ -13,7 +13,7 @@
                     <a href="#" class="bg-slate-800 text-white px-4 py-2 rounded-lg text-sm font-medium transition duration-150">Overview</a>
                     <a href="/dashboard" class="bg-slate-800 text-white px-4 py-2 rounded-lg text-sm font-medium transition duration-150">Dashboard</a>
                     <a href="/admin-categories" class="text-gray-600 hover:bg-gray-100 hover:text-gray-900 px-4 py-2 rounded-lg text-sm font-medium transition duration-150">Manage Categories</a>
-                    <a href="#" class="text-gray-600 hover:bg-gray-100 hover:text-gray-900 px-4 py-2 rounded-lg text-sm font-medium transition duration-150">Manage Quizzes</a>
+                    <a href="/add-quiz" class="text-gray-600 hover:bg-gray-100 hover:text-gray-900 px-4 py-2 rounded-lg text-sm font-medium transition duration-150">Add-Quiz</a>
                     <a href="#" class="text-gray-600 hover:bg-gray-100 hover:text-gray-900 px-4 py-2 rounded-lg text-sm font-medium transition duration-150">Reports</a>
                     <a href="#" class="text-gray-600 hover:bg-gray-100 hover:text-gray-900 px-4 py-2 rounded-lg text-sm font-medium transition duration-150">Admin Profile</a>
                 </nav>
